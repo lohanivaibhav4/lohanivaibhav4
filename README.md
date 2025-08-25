@@ -1,16 +1,73 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/0rjZ5kY/github-banner.png" alt="Vaibhav Lohani Banner" />
+</p>
 
-<!--
-**lohanivaibhav4/lohanivaibhav4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Vaibhav Lohani</h1>
+<h3 align="center">🚀 MERN Stack Developer | 🎨 Modern Web Designer | 🎶 Music Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me  
+- 🌱 Currently upskilling in **MERN Stack + AI Integration**  
+- 🏗️ Building projects like **Litpost, Vanlife, Shourl**  
+- 🎯 Goal: Launch my own **Tech Startup**  
+- 📍 Based in **Raipur, India**  
+
+---
+
+## 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,tailwind,git,github,vscode,figma" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/lohanivaibhav4/Litpost">
+    <img src="https://i.ibb.co/SKZc3Ck/litpost-thumb.png" width="250px" alt="Litpost" />
+  </a>
+  <a href="https://github.com/lohanivaibhav4/Shourl">
+    <img src="https://i.ibb.co/Fh0MzrJ/shourl-thumb.png" width="250px" alt="Shourl" />
+  </a>
+  <a href="https://github.com/lohanivaibhav4/Vanlife">
+    <img src="https://i.ibb.co/PMvPpjt/vanlife-thumb.png" width="250px" alt="Vanlife" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lohanivaibhav4&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lohanivaibhav4&theme=radical" alt="streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohanivaibhav4&theme=redical" alt="activity graph"/>
+</p>
+
+---
+
+## 🏆 Achievements & Highlights  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lohanivaibhav4&theme=radical&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/lohanivaibhav4">
+    <img src="https://img.shields.io/badge/-Vaibhav%20Lohani-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lohanivaibhav4@gmail.com">
+    <img src="https://img.shields.io/badge/-Email%20Me-c14438?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+✨ *“Code. Create. Inspire.”*  
