@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/0rjZ5kY/github-banner.png" alt="Vaibhav Lohani Banner" />
+  <img src="images/banner.png" alt="Vaibhav Lohani Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Vaibhav Lohani</h1>
-<h3 align="center">🚀 MERN Stack Developer | 🎨 Modern Web Designer | 🎶 Music Enthusiast</h3>
+<h3 align="center">🚀 MERN Stack Developer</h3>
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -26,14 +26,14 @@
 ## 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/lohanivaibhav4/Litpost">
-    <img src="https://i.ibb.co/SKZc3Ck/litpost-thumb.png" width="250px" alt="Litpost" />
+  <a href="https://github.com/lohanivaibhav4/">
+    <img src="superio.png" width="250px" alt="Superio" />
   </a>
   <a href="https://github.com/lohanivaibhav4/Shourl">
-    <img src="https://i.ibb.co/Fh0MzrJ/shourl-thumb.png" width="250px" alt="Shourl" />
+    <img src="shourl.png" width="250px" alt="Shourl" />
   </a>
   <a href="https://github.com/lohanivaibhav4/Vanlife">
-    <img src="https://i.ibb.co/PMvPpjt/vanlife-thumb.png" width="250px" alt="Vanlife" />
+    <img src="vanlife.png" width="250px" alt="Vanlife" />
   </a>
 </p>
 
