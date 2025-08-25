@@ -27,13 +27,13 @@
 
 <p align="center">
   <a href="https://github.com/lohanivaibhav4/">
-    <img src="superio.png" width="250px" alt="Superio" />
+    <img src="images/superio.png" width="250px" alt="Superio" />
   </a>
   <a href="https://github.com/lohanivaibhav4/Shourl">
-    <img src="shourl.png" width="250px" alt="Shourl" />
+    <img src="images/shourl.png" width="250px" alt="Shourl" />
   </a>
   <a href="https://github.com/lohanivaibhav4/Vanlife">
-    <img src="vanlife.png" width="250px" alt="Vanlife" />
+    <img src="images/vanlife.png" width="250px" alt="Vanlife" />
   </a>
 </p>
 
