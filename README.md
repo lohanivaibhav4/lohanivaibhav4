@@ -9,10 +9,11 @@
 ---
 
 ## 🧑‍💻 About Me  
-- 🌱 Currently upskilling in **MERN Stack + AI Integration**  
-- 🏗️ Building projects like **Litpost, Vanlife, Shourl**  
-- 🎯 Goal: Launch my own **Tech Startup**  
-- 📍 Based in **Raipur, India**  
+- 💻 Full-stack developer skilled in **MERN stack**, with growing expertise in **AI-driven web solutions**  
+- 🚀 Built projects like **Superio - Job Portal, Vanlife - Van Booking App**,       demonstrating hands-on experience in modern web development  
+- 🎯 Focused on building a strong **career in software engineering** and contributing to impactful tech teams  
+- 🌍 Based in **Raipur, India** | Open to relocation and remote opportunities  
+
 
 ---
 
@@ -27,42 +28,38 @@
 
 <p align="center">
   <a href="https://github.com/lohanivaibhav4/">
-    <img src="images/superio.png" width="250px" alt="Superio" />
-  </a>
-  <a href="https://github.com/lohanivaibhav4/Shourl">
-    <img src="images/shourl.png" width="250px" alt="Shourl" />
+    <img src="images/superio.png" width="450px" alt="Superio" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+
+## 📜 Certificates & Achievements  
+
+- 🏆 [Winner - Ideathon'24 - (Healthcare Technology)](https://drive.google.com/file/d/1iRHNYY2_x9dKB2u7exscRPEYQYCTw-7P/view?usp=drive_link)  
+
+- 🎓 [The Frontend Developement Career Path (Scrimba)](https://scrimba.com/certificate-cert2uNjfK9m1uPPGxcg5oipRrWBfLwRKyR5wrg)  
+
+---
+## 🏆 Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lohanivaibhav4&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lohanivaibhav4&theme=radical" alt="streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohanivaibhav4&theme=redical" alt="activity graph"/>
+  <img src="images/leetcode.png" width="450px" alt="leetcode-dashboard"/>
 </p>
 
 ---
 
-## 🏆 Achievements & Highlights  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lohanivaibhav4&theme=radical&margin-w=15&margin-h=15" />
-</p>
-
----
 
 ## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/lohanivaibhav4">
-    <img src="https://img.shields.io/badge/-Vaibhav%20Lohani-blue?style=flat&logo=Linkedin&logoColor=white" />
-  LinkedIn</a>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
   <a href="mailto:lohanivaibhav4@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20Me-c14438?style=flat&logo=Gmail&logoColor=white" />
-  Gmail</a>
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
