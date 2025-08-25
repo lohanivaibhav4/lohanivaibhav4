@@ -32,14 +32,6 @@
   <a href="https://github.com/lohanivaibhav4/Shourl">
     <img src="images/shourl.png" width="250px" alt="Shourl" />
   </a>
-  <a href="https://github.com/lohanivaibhav4/Vanlife">
-    <img src="images/vanlife.png" width="250px" alt="Vanlife" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/lohanivaibhav4/Vanlife">
-    <img src="images/vanlife.png" width="250px" alt="Vanlife" />
-  </a>
 </p>
 
 ---
@@ -67,10 +59,10 @@
 <p align="center">
   <a href="https://linkedin.com/in/lohanivaibhav4">
     <img src="https://img.shields.io/badge/-Vaibhav%20Lohani-blue?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
+  LinkedIn</a>
   <a href="mailto:lohanivaibhav4@gmail.com">
     <img src="https://img.shields.io/badge/-Email%20Me-c14438?style=flat&logo=Gmail&logoColor=white" />
-  </a>
+  Gmail</a>
 </p>
 
 ---
